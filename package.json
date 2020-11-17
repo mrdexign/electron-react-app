@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "electron-builder": "^22.9.1"
+    "electron-builder": "^22.9.1",
+    "foreman": "^3.0.1"
   }
 }
